@@ -25,7 +25,6 @@ const AddReview = () => {
         } catch (err) {
             console.log(err)
         }
-        console.log(response);
     };
 
     return (
